@@ -1,4 +1,4 @@
-##Hasher module
+## Hasher module
 
 Provides 2 fuctions to hash and match hashed passwords
 - HashPassword returns MD5-hashed password
